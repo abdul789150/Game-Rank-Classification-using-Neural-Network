@@ -1,3 +1,5 @@
+## Project Descrption
+
 Ludum Dare is a well-known, long-running online game jam. It is essentially a competition in which
 contestants develop a game in 48 or 72 hours, ideally relating to a particular theme, and receive
 rankings (1-5 stars) from other contestants. There are two categories: the "compo" (developers work
@@ -19,3 +21,14 @@ The training data consists of games entered in LD38 through 45, while the test d
 LD46. LD46 was the largest Ludum Dare competition yet by a substantial margin, presumably due
 to a large influx of new participants on account of COVID-19 quarantine; as such, keep in mind that
 there may be some shift in the distribution between the training and test sets.
+
+
+## How to Run Project
+For running this project you need to run the ```final_model.ipynb file```. In the end it will output the predictions for testing in a new csv file.
+
+## Libraries you will need
+You will need to install following libraries to run the project:
+-> numpy
+-> pandas
+-> keras
+-> scikit learn
