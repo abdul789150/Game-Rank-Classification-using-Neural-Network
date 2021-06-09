@@ -28,7 +28,7 @@ For running this project you need to run the ```final_model.ipynb file```. In th
 
 ## Libraries you will need
 You will need to install following libraries to run the project:
--> numpy
--> pandas
--> keras
--> scikit learn
+* numpy
+* pandas
+* keras
+* scikit learn
