@@ -12,15 +12,6 @@ competition, obtained via the public API of the official Ludum Dare site. Each e
 according to its final average score in the "overall" category (from 1 to 5 stars, rounded to the nearest
 integer, or 0 if the game did not receive enough ratings to officially rank). This is a classification
 problem with 6 (unbalanced) classes.
-For each game, there are several numerical and categorical features available, which are described
-below. Not all of them will be useful for the purposes of this contest. Additionally, for anyone
-interested in Natural Language Processing, each game includes a text description which likely
-contains additional useful data. The vast majority of games also have an associated thumbnail image
-which may allow for some Computer Vision experimentation.
-The training data consists of games entered in LD38 through 45, while the test data comes from
-LD46. LD46 was the largest Ludum Dare competition yet by a substantial margin, presumably due
-to a large influx of new participants on account of COVID-19 quarantine; as such, keep in mind that
-there may be some shift in the distribution between the training and test sets.
 
 
 ## How to Run Project
